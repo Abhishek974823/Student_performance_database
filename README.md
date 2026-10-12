@@ -80,7 +80,8 @@ internship/
 ├── prg.py
 ├── students.csv
 ├── README.md
-├── Project_Documentation.md
+├── documentation.md
+├── output_chart.png
 └── screenshots/
     ├── out1.png
     ├── out2.png
