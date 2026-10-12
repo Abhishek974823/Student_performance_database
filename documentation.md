@@ -3,10 +3,10 @@
 ## 1. Project Title and Student Details
 
 - **Project Title:** Student Performance Analytics System
-- **Student Name:** [Your Name]
+- **Student Name:** Abhishek Kumar Jha
 - **Course:** Python with AI
-- **Department:** [Your Department]
-- **Institution:** [Your College Name]
+- **Department:** CSE(AI&ML)
+- **Institution:** INSTITUTE OF ENGINEERING AND MANAGEMENT, KOLKATA
 
 ## 2. Project Objective
 
